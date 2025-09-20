@@ -3,7 +3,6 @@ This repository contains the code used to analyze socioeconomic indicators (e.g.
 
 ## Usage
 - `gee_night_light.py`: Processes night-time light data from VIIRS.
-- `generate_plots.py`: Generates GDP correlation plots.
 - Requirements: Python 3.8+, pandas, geopandas, requests,ee, seaborn  matplotlib.
 
 ## Instructions
